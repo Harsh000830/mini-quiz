@@ -1,4 +1,4 @@
-# 📚 Mini Quiz System — React + Redux + Timer
+#  Mini Quiz System — React + Redux + Timer
 
 A simple and clean **Multiple-Choice Quiz Web App** built using **React (Vite)** and **Redux Toolkit**.  
 The quiz loads static questions, runs a countdown timer, auto-submits when time ends, and shows the final score.
@@ -48,7 +48,7 @@ src/
 
 ---
 
-## 🛠 Setup Instructions
+##  Setup Instructions
 
 ### 1. Install dependencies
 ```bash

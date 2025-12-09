@@ -5,10 +5,10 @@ The quiz loads static questions, runs a countdown timer, auto-submits when time 
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🎯 **5–10 MCQ Questions** (loaded from a static JS file)
-- 🧠 **Redux Toolkit State Management**
+-  **5–10 MCQ Questions** (loaded from a static JS file)
+-  **Redux Toolkit State Management**
   - Stores questions  
   - Tracks selected answers  
   - Calculates score  
@@ -18,13 +18,13 @@ The quiz loads static questions, runs a countdown timer, auto-submits when time 
   - Updates every second  
   - Auto-submits quiz when time ends
 - ✔️ **Manual Submit Button**
-- 📊 **Final Score Display**
-- 🔁 **Retry Quiz Option**
-- ⚡ Built using **Vite + React**
+-  **Final Score Display**
+-  **Retry Quiz Option**
+-  Built using **Vite + React**
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -50,12 +50,12 @@ src/
 
 ## 🛠 Setup Instructions
 
-### 1️⃣ Install dependencies
+### 1. Install dependencies
 ```bash
 npm install
 ```
 
-### 2️⃣ Run the project
+### 2. Run the project
 ```bash
 npm run dev
 ```
@@ -64,7 +64,7 @@ Then open the URL shown in the terminal (usually `http://localhost:5173`).
 
 ---
 
-## 🎥 Demo (For Assignment)
+##  Demo (For Assignment)
 
 Record a short video showing:
 
@@ -77,7 +77,7 @@ Record a short video showing:
 
 ---
 
-## ✨ Future Improvements
+##  Future Improvements
 
 - Show correct/wrong answers after submitting  
 - Add per-question navigation  
@@ -86,5 +86,5 @@ Record a short video showing:
 
 ---
 
-### ✅ Project Completed for Assignment  
+###  Project Completed for Assignment  
 **Mini Quiz System – React + Redux + Timer**
